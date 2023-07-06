@@ -3,10 +3,10 @@ Automated Toolkit(ATAT)**. I am assuming that you have already installed and com
 1) Generate **rndstr.in** file according to the required symmetry. For example, for Pt-Cu binary random solid solution, the following is the format of
 rndstr.in file;
 
-**1 1 1 90 90 90 
-0.0 0.5 0.5
-0.5 0.0 0.5 
-0.5 0.5 0.0 
+**1 1 1 90 90 90 <br>
+0.0 0.5 0.5 <br>
+0.5 0.0 0.5 <br>
+0.5 0.5 0.0 <br>
 0.0 0.0 0.0 Pt=0.5,Cu=0.5**
 For any queries regarding the input structure file, refer to ATAT documentation.
 
