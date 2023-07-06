@@ -7,7 +7,7 @@ rndstr.in file;
 0.0 0.5 0.5 <br>
 0.5 0.0 0.5 <br>
 0.5 0.5 0.0 <br>
-0.0 0.0 0.0 Pt=0.5,Cu=0.5**
+0.0 0.0 0.0 Pt=0.5,Cu=0.5** <br>
 For any queries regarding the input structure file, refer to ATAT documentation.
 
 2) Once we have the rndstr.in file ready, we have to generate clusters according to our requirements. Use the following command line; 
